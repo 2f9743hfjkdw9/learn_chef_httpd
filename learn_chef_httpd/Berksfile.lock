@@ -1,0 +1,7 @@
+DEPENDENCIES
+  learn_chef_httpd
+    path: .
+    metadata: true
+
+GRAPH
+  learn_chef_httpd (0.1.0)
